@@ -934,15 +934,6 @@ The results demonstrate the potential of perceptually guided latent-space messag
 Computer Engineering  
 Adana Alparslan Türkeş Science and Technology University
 
-Research internship conducted at:
-
-**Computational Light Laboratory**  
-Department of Computer Science  
-University College London (UCL)
-
-**Research Supervisor:** Assoc. Prof. Kaan Akşit
-
-**Internship Period:** July 20 – August 14, 2026
 
 ---
 
